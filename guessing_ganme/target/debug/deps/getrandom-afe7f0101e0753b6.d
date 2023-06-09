@@ -1,0 +1,11 @@
+C:\workspaces\rustspace\guessing_ganme\target\debug\deps\getrandom-afe7f0101e0753b6.rmeta: C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\lib.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\error.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\util.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\error_impls.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\windows.rs
+
+C:\workspaces\rustspace\guessing_ganme\target\debug\deps\libgetrandom-afe7f0101e0753b6.rlib: C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\lib.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\error.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\util.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\error_impls.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\windows.rs
+
+C:\workspaces\rustspace\guessing_ganme\target\debug\deps\getrandom-afe7f0101e0753b6.d: C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\lib.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\error.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\util.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\error_impls.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\windows.rs
+
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\error.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\util.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\error_impls.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\getrandom-0.2.9\src\windows.rs:

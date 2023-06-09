@@ -1,0 +1,11 @@
+C:\workspaces\rustspace\day01\target\debug\deps\textwrap-491b5b25c81348b9.rmeta: C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\lib.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\indentation.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\splitting.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\core.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\core\optimal_fit.rs
+
+C:\workspaces\rustspace\day01\target\debug\deps\libtextwrap-491b5b25c81348b9.rlib: C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\lib.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\indentation.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\splitting.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\core.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\core\optimal_fit.rs
+
+C:\workspaces\rustspace\day01\target\debug\deps\textwrap-491b5b25c81348b9.d: C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\lib.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\indentation.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\splitting.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\core.rs C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\core\optimal_fit.rs
+
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\indentation.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\splitting.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\core.rs:
+C:\Users\Administrator\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\textwrap-0.13.4\src\core\optimal_fit.rs:

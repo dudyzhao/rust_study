@@ -13,6 +13,13 @@ fn main() {
     };
     println!("rect area is {:?}", rectangle(&rect));
     println!("rect area is {:?}", rect);
+    println!("rect area is {:#?}", rect);
+
+    let rect1 = Rectangle {
+        width: dbg!(30 * width),
+        heigh: heigh,
+    };
+    dbg!(&rect1);
 }
 
 fn area(width: u32, heigh: u32) -> u32 {

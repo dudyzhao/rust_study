@@ -45,6 +45,33 @@ enum Message {
     ChangeColor(i32, i32, i32), // 多类型
 }
 
+enum Coin {
+    Penny,
+    Nickel,
+    Dime,
+    Quarter(UsState),
+}
+
+enum UsState {
+    Alabama,
+    Alaska,
+}
+
+fn value_in_cents(coin: Coin) -> u8 {
+    match coin {
+        Coin::Penny => {
+            println!("lucky penny!");
+            1 // 返回值
+        }, // 逗号可选
+        Coin::Nickel => 5,
+        Coin::Dime => 10,
+        COin::Quarter(state) => {
+            println!("stats quarter from {:?}",state),
+            25
+        }
+    }
+}
+
 impl Message {
     fn call(&self) {
         println!("{}", &self::Write);
